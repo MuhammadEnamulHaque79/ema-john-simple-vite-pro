@@ -1,6 +1,8 @@
 .cart{
     background: lightcoral;
-    padding: 20px;
+    padding: 25px;
+    position: sticky;
+    top: 0;
 }
 
 .cart h2{
@@ -11,11 +13,11 @@
 .cart h6{
     font-size: 18px;
     margin-top: 25px;
-    margin-left: 15px;
+    margin-left: 5px;
 }
 
 .cart h4{
     font-size: 21px;
     margin-top: 30px;
-    margin-left: 15px;
+    margin-left: 5px;
 }
