@@ -1,0 +1,21 @@
+.cart{
+    background: lightcoral;
+    padding: 20px;
+}
+
+.cart h2{
+    font-size: 22px;
+    text-align: center;
+}
+
+.cart h6{
+    font-size: 18px;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.cart h4{
+    font-size: 21px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
