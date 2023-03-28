@@ -1,11 +1,14 @@
 .header{
     height: 80px;
     background: #1C2B35;
+    /* background-color: red; */
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding-left: 100px;
     padding-right: 100px;
+    /* position: sticky; */
+    /* top: 0; */
 }
 
 nav.header a{
